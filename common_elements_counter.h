@@ -3,8 +3,8 @@
  * created: 4/19/2019 12:45:50
  */
 
-#ifndef COMMON_ELEMENTS_COUNT
-#define COMMON_ELEMENTS_COUNT
+#ifndef COMMON_ELEMENTS_COUNTER
+#define COMMON_ELEMENTS_COUNTER
 
 #include <vector>
 #include <algorithm>
@@ -88,4 +88,4 @@ unsigned int commonElementsCount(size_t firstSize, int *first, size_t secondSize
     return answer;
 }
 
-#endif // COMMON_ELEMENTS_COUNT
+#endif // COMMON_ELEMENTS_COUNTER
